@@ -1,17 +1,26 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+#Bikeshare Project (Udacity PDSND)
 
+**Note**: This repository is a fork of Udacity's `pdsnd_github` project template. 
+The Bikeshare dataset file is kept locally and is excluded from version control using `.gitignore`.
 ### Date created
-Include the date you created this project and README file.
+2026-01-04
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data Exploration (CLI)
 
 ### Description
-Describe what your project is about and what it does
+This project is a command-line Python program that explores bikeshare data and prints summary statistics.
+Users can select a city and optionally filter by month and day of week. The program then calculates and displays:
+- Most common travel times (month, day, hour)
+- Most popular stations (start, end, and combinations)
+- Trip duration statistics
+- User info (where available)
 
 ### Files used
-Include the files used
+- `bikeshare.py` — main Python script
+- `new_york_city.csv` — dataset file (stored locally; ignored by git)
+- `.gitignore` — excludes the dataset from being committed
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- Udacity project template repository: `udacity/pdsnd_github`
 
