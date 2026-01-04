@@ -27,6 +27,11 @@ Run the program from the command line:
 
 ```bash
 python3 bikeshare.py
+```
+
+### Notes
+- The dataset CSV file is stored locally and excluded from version control using `.gitignore`.
+- This project focuses on practicing Git and GitHub workflows rather than data analysis accuracy.
 
 ### Credits
 - Udacity project template repository: `udacity/pdsnd_github`
