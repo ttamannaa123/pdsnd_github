@@ -22,6 +22,9 @@ Users can select a city and optionally filter by month and day of week. The prog
 - `new_york_city.csv` — dataset file (stored locally; ignored by git)
 - `.gitignore` — excludes the dataset from being committed
 
+### Requirements
+- Python 3.x
+
 ### How to run
 Run the program from the command line:
 
