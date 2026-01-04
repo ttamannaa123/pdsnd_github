@@ -1,3 +1,11 @@
+"""
+Bikeshare Data Exploration Script
+
+This script allows users to explore bikeshare data
+by city, month, and day using a command-line interface.
+"""
+
+
 import time
 import pandas as pd
 import numpy as np
